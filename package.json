@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mz": "^2.7.0",
+    "nodemon": "^2.0.15",
+    "pdf-toolz": "^1.1.8",
+    "pdfjs": "^2.4.7",
+    "readdirp": "^3.6.0"
+  }
+}
